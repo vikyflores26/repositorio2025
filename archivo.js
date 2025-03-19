@@ -13,3 +13,13 @@ else {
 } 
 
 let numero = prompt('Ingresa un numero ')
+let edad = 15
+let autocondicion = false
+let equiponecesario  = true
+if ((edad>=15) && (equiponecesario=true) && (autocondicion=true)){
+    alert ('podes correr')
+}else
+
+{
+alert ('no podes correr')
+}
